@@ -1,4 +1,8 @@
 # 🍔
+## Instructions:
+1. Clone this repository to your machine
+2. Cut a branch and check it out
+3. Read the rest of this document
 
 ## The aim:
 The aim here is to fill out some files:
@@ -25,6 +29,7 @@ burger patty
 pickles
 bottom bun
 ```
+
 
 ## The challenge rules:
 
