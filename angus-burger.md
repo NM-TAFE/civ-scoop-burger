@@ -3,6 +3,6 @@ Tomatoe Sauce
 Salt
 Jalapenos
 Tomato
-lettuce
+Lettuce
 Angus Beef Patty
 Bottom Bun
