@@ -1,6 +1,6 @@
 Top Bun
 Tomatoe Sauce
-salt
+Salt
 Jalapenos
 Tomato
 lettuce
