@@ -1,9 +1,13 @@
 Top Bun
 Tomatoe Sauce
-salt
+Salt
 Jalapenos
 Tomato
 lettuce
 gold leaf 24k
+Lettuce
+Onion
 Angus Beef Patty
+Pickles
 Bottom Bun
+
