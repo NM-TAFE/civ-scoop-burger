@@ -4,6 +4,8 @@ salt
 Jalapenos
 Tomato
 lettuce
+Onion
 Angus Beef Patty
 pickles
 Bottom Bun
+
