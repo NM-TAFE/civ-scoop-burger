@@ -1,5 +1,4 @@
 Top Bun
-Lettuce
 salt
 Tomato
 lettuce
