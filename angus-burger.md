@@ -1,11 +1,11 @@
 Top Bun
 Tomatoe Sauce
-salt
+Salt
 Jalapenos
 Tomato
-lettuce
+Lettuce
 Onion
 Angus Beef Patty
-pickles
+Pickles
 Bottom Bun
 
