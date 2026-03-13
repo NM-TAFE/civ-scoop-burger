@@ -1,13 +1,13 @@
 Top Bun
-Tomatoe Sauce
 Salt
 Jalapenos
 Tomato
 lettuce
 gold leaf 24k
 Lettuce
-Onion
-Angus Beef Patty
 Pickles
+Onion
+Cheese
+Angus Beef Patty
+Tomatoe Sauce
 Bottom Bun
-
