@@ -5,7 +5,7 @@ Jalapenos
 Tomato
 Lettuce
 Onion
+Cheddar
 Angus Beef Patty
 Pickles
 Bottom Bun
-
