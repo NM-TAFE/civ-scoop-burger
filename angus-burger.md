@@ -1,3 +1,4 @@
 Top Bun
-Cheese
+Tomato
+Lettuce
 Bottom Bun
