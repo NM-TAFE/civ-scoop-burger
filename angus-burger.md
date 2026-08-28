@@ -1,3 +1,3 @@
 Top Bun
-bun
+angus-beef patty
 Bottom Bun
